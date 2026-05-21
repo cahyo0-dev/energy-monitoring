@@ -1,0 +1,2 @@
+17:05:45 - Response: {"detail":"success! message in queue","id":[136266843,136266844],"process":"pending","quota":{"6281254862196":{"details":"deduced from total quota","quota":1000,"remaining":998,"used":2}},"requestid":301481347,"status":true,"target":["6281254862196","6282153918915"]}
+17:13:16 - Response: {"detail":"success! message in queue","id":[136267680,136267681],"process":"pending","quota":{"6281254862196":{"details":"deduced from total quota","quota":998,"remaining":996,"used":2}},"requestid":301489136,"status":true,"target":["6281254862196","6282153918915"]}
